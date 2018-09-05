@@ -20,7 +20,7 @@
         "open": {
             "data": 0,
             "frequency": 1,
-            "responseTime": 20000
+            "responseTime": 300000
         },
         "selective": {
             "data": [
@@ -43,7 +43,7 @@
                 }
             ],
             "frequency": 3,
-            "responseTime": 50000
+            "responseTime": 300000
         },
         "descriptive": {
             "data": [
@@ -64,7 +64,7 @@
                 }
             ],
             "frequency": 3,
-            "responseTime": 50000
+            "responseTime": 300000
         }
     }
 }
