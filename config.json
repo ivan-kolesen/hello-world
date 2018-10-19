@@ -1,4 +1,7 @@
 {
+    "numberOfLevels": 2,
+    "numberOfStages": [3, 5],
+    "numberOfQuestions": 5,
     "complexity": {
         "1": {
             "operators": ["+", "-"],
