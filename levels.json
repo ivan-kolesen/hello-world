@@ -132,6 +132,48 @@
             "type": "arithmetics"
           }
         ]
+      },
+      {
+        "complexity": 1,
+        "type": "primer_open",
+        "questions": [
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          }
+        ]
+      },
+      {
+        "complexity": 1,
+        "type": "primer_open",
+        "questions": [
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          },
+          {
+            "type": "arithmetics"
+          }
+        ]
       }
     ]
   }
