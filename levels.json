@@ -7,19 +7,19 @@
         "type": "primer_open",
         "questions": [
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           }
         ]
       },
@@ -28,19 +28,19 @@
         "type": "primer_open",
         "questions": [
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           }
         ]
       },
@@ -49,19 +49,19 @@
         "type": "primer_open",
         "questions": [
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           }
         ]
       }
@@ -75,19 +75,19 @@
         "type": "primer_open",
         "questions": [
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           }
         ]
       },
@@ -96,19 +96,19 @@
         "type": "primer_open",
         "questions": [
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           }
         ]
       },
@@ -117,19 +117,19 @@
         "type": "primer_open",
         "questions": [
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           },
           {
-            type: "arithmetics"
+            "type": "arithmetics"
           }
         ]
       }
